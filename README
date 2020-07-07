@@ -1,0 +1,7 @@
+echo "# aprendendonogithub" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeira confirmação" 
+git remote add origin https://github.com/ValdirCanossa/aprendendonogithub.git
+ git push -u origin master
+                
